@@ -8,6 +8,6 @@ Shows the tendency of primes to allign forming diagonals.
 
 ----------------
 
-made by myro_973 - 2018.8 
+made by myro_973 - 2017.11
 
 www.instagram.com/myro_973/
